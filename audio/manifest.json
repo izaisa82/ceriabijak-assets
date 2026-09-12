@@ -314,5 +314,12 @@
   "hati": "content/hati.mp3",
   "belon hati": "content/belon-hati.mp3",
   "tembikai": "content/tembikai.mp3",
-  "bintang langit": "content/bintang-langit.mp3"
+  "bintang langit": "content/bintang-langit.mp3",
+  "kapal terbang": "content/kapal-terbang.mp3",
+  "kapal laut": "content/kapal-laut.mp3",
+  "kereta api": "content/kereta-api.mp3",
+  "awan langit": "content/awan-langit.mp3",
+  "jalan raya": "content/jalan-raya.mp3",
+  "landasan": "content/landasan.mp3",
+  "lautan": "content/lautan.mp3"
 }
